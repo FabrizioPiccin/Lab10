@@ -14,7 +14,7 @@ public class TestModel {
 		
 		model.createGraph();
 		
-        model.getSequenzaArticoli(model.listaAutori.get(33), model.listaAutori.get(3) );
+        model.getSequenzaArticoli(model.listaAutori.get(55), model.listaAutori.get(3) );
 	}
 
 }

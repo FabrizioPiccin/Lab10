@@ -74,7 +74,7 @@ public class Model {
 
 	public List<Paper> getSequenzaArticoli(Author autore1, Author autore2) {
 		
-	
+		
 	
 		return null;
 	}
